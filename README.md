@@ -1,2 +1,2 @@
 # Chatbot
-build a chatbot using Python 
+Chatbot using Python 
